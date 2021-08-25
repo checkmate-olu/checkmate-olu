@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @checkmate-olu
-- 👀 I’m interested in Python, Data Analysis, Data Science and Machine Learning. 
+- 👀 I’m interested in Python, Data Analysis, Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning with udacity scholarship. 
 -     Just completed Data Analysis program with Entry Level...
 - 💞️ I’m looking to singlehandedly handle a project or collaborate on any project ...
